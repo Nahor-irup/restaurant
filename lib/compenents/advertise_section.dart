@@ -95,7 +95,7 @@ class _AdvertiseSectionState extends State<AdvertiseSection> {
                         ),
                       ),
                     ),
-                  )
+                  ),
                 ],
               ),
             ],
